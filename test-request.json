@@ -1,0 +1,17 @@
+{
+  "email": "23f2003186@ds.study.iitm.ac.in",
+  "secret": "Akki_Vinay_0914",
+  "task": "sum-of-sales-selftest",
+  "round": 1,
+  "nonce": "nonce-for-testing-1234",
+  "brief": "Publish a single-page site that uses the attached data.csv, sums its 'sales' column, displays the total inside an element with id #total-sales, and loads Bootstrap 5 from jsdelivr.",
+  "checks": [
+    "Page has a #total-sales element",
+    "Page loads bootstrap"
+  ],
+  "evaluation_url": "https://example.com/notify",
+  "attachments": [{
+    "name": "data.csv",
+    "url": "data:text/csv;base64,cHJvZHVjdCxzYWxlcwpXaWRnZXQgQSwxNTAKOSBXLDI1MApXaWRnZXQgQSwxMDAKV2lkZ2V0IEMsMzAw"
+  }]
+}
