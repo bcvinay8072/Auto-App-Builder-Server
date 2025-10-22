@@ -257,6 +257,4 @@ No license file detected in the repository metadata. Add a LICENSE file (for exa
 Maintainer: bcvinay8072  
 Repository: https://github.com/bcvinay8072/Auto-App-Builder-Server
 
-If you'd like, I can:
-- Commit this README.md to your repository on a new branch and open a pull request, or
-- Adjust the README to reflect the exact routes and environment variables after you point me to files in the repository.
+
